@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FireBase Messaging</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_app">AppActivity</string>
+    <string name="Terms">Tap Sign In to accept our Terms, Data,\n
+        Policy, Cookie use and the Privacy Policy\n
+        and Terms of Services....</string>
+</resources>
